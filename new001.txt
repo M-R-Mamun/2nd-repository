@@ -1,0 +1,2 @@
+
+I am trying to learn git so that i can understant what is going on the project.
